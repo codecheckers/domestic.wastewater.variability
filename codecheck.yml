@@ -2,7 +2,7 @@
 version: https://codecheck.org.uk/spec/config/1.0
 
 paper:
-  title: Modeling spatiotemporal domestic wastewater variability: Implications for measuring treatment efficiency
+  title: "Modeling spatiotemporal domestic wastewater variability: Implications for measuring treatment efficiency"
   authors:
     - name: Néstor DelaPaz-Ruíz
       ORCID: 0000-0002-8941-4677
